@@ -50,9 +50,8 @@ SPLAENet integrates multiple attention-based components to model both **contextu
 - **Label Fusion:** Uses distance-based learning to align features with stance labels.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prasad998/SPLAENet/main/SPLAENet-flowchart.png" alt="SPLAENet Flowchart" width="600"/>
+  <img src="https://raw.githubusercontent.com/Prasad998/SPLAENet/main/SPLAENet-flowchart.png" alt="SPLAENet Flowchart" width="600"/>
 </p>
-
 ---
 
 ## 📈 Results
