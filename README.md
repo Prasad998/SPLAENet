@@ -14,9 +14,19 @@
 - **Hierarchical attention networks** to enhance intra- and inter-text relationships.
 
 SPLAENet achieves **significant improvements** over existing methods, with up to **17% F1-score gain** on benchmark datasets.
+---
+## 📰 Publication
+
+This work has been **accepted in the journal**:  
+**Engineering Applications of Artificial Intelligence (EAAI)** – *Elsevier*
+
+- 🔬 **Impact Factor (2023):** 7.802  
+- 🏢 **Publisher:** Elsevier  
+- 🔗 **DOI:** _[To be updated]_  
+
+[Visit Journal Homepage](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 
 ---
-
 ## 📰 Paper Abstract
 
 > The rapid evolution of social media has generated an overwhelming volume of user-generated content, conveying implicit opinions and contributing to the spread of misinformation. Stance detection has emerged as a crucial approach for analyzing biases in shared information. This paper proposes **SPLAENet**: a **Label-fused Dual Cross-Attentive Emotion-aware Neural Network** for stance detection in misinformative content.  
